@@ -1,0 +1,4 @@
+name: DisplayEntityTestSpigot
+version: '${project.version}'
+main: dev.twme.displayentitytestspigot.DisplayEntityTestSpigot
+api-version: '1.20'
